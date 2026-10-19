@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/mahmoud/glom/commit/fd70d3051a6a1bcb5152ec2d8e2cdc8e852f95e6",
       "git:hexsha": "fd70d3051a6a1bcb5152ec2d8e2cdc8e852f95e6",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T13:38:59.628978+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mahmoud/glom/commit/9b71f21e6880365ae11a791ccd8c099a577a9a51",
